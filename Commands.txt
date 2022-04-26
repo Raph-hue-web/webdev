@@ -1,0 +1,42 @@
+Command Promt
+
+*List of Items in Directory
+-dir
+
+* Enter a Folder
+-cd folderName
+
+* Create a folder
+-mkdir folderName
+
+*Create a file 
+-echo "" > example.txt
+
+*Clear a terminal 
+-cls
+
+GIT
+
+*Initialize Git
+-Git init
+
+*stage Git
+-git add .
+
+*Commit 
+-git commit -m" message"
+
+*Checking branches 
+-git branch
+
+*Creating a branch
+-git branch branchName
+
+*enter a branch
+-git checkout branchName
+
+*Merging Branches
+-git merge branchName
+
+*Deleting Branch 
+-git branch -D branchName 
