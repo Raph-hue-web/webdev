@@ -1,0 +1,11 @@
+{
+    "git.allowForcePush": true,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true,
+    "git.fetchOnPull": true,
+    "github.gitAuthentication": true,
+    "[git-commit]": {
+        "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+    },
+    "files.autoSave": "afterDelay"
+}
