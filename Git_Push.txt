@@ -1,0 +1,73 @@
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (branch1)      
+$ git remote add origin https://github.com/Raph-hue-web/webdev.git
+error: remote origin already exists.
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (branch1)      
+$ git branch -M main
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done. 
+Writing objects: 100% (4/4), 499 bytes | 499.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Raph-hue-web/webdev.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ git remote add origin https://github.com/Raph-hue-web/webdev.git
+error: remote origin already exists.
+$ git push -u origin main
+Everything up-to-date
+branch 'main' set up to track 'origin/main'.
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$
+
+ Session contents restored from 27/04/2022 at 13:48:02 
+
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ 
+
+
+
+
+
+
+
+ Session contents restored from 27/04/2022 at 13:48:52 
+
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ git add .
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ git commit -m"new commit"
+[main c2cb195] new commit
+ 14 files changed, 668 insertions(+)        
+ create mode 100644 .vscode/settings.json   
+ create mode 100644 CSS.STYLE.txt
+ create mode 100644 DAY 2.txt
+ create mode 100644 DAY 2_MORNING.txt       
+ create mode 100644 DAY 2_MORNING1.txt      
+ create mode 100644 Pretech_HTML.txt        
+ create mode 100644 TRIAL.html
+ create mode 100644 cat.webp
+ create mode 100644 handsOn.html
+ create mode 100644 html2
+ create mode 100644 index.html
+ create mode 100644 page2.html
+ create mode 100644 portfoliocss.html       
+ create mode 100644 style.css
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$ git push
+Everything up-to-date
+
+Guribie A. Raphael@Guribie MINGW64 ~/OneDrive/Desktop/Training (main)
+$

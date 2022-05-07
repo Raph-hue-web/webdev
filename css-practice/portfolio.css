@@ -1,0 +1,121 @@
+/* * { */
+
+/* box-sizing: border-box; */
+/* } */
+
+
+body {
+    background-image: url("https://1348661504.rsc.cdn77.org/.uc/ie3ab5cbc01026530850069e21403c953c14384a464980701c3dc05000080/header-se-home.png");
+    background-size: inherit;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    /* overflow-x: hidden; */
+    /* padding: 0; */
+    /* margin: 0; */
+
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 
+.home {
+    color: rgba(255, 255, 255, 0.818);
+} */
+
+nav {
+    width: 100%;
+    height: 8%;
+}
+
+.nav-body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 90px;
+}
+
+.icon {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.links {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+ol {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-left: 200px;
+    color: rgb(60, 134, 213);
+}
+
+li {
+    margin-left: 15px;
+    margin-right: 15px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.banner {
+    width: 100%;
+    height: 92%;
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    width: 50%;
+    height: 100%;
+    color: rgb(55, 87, 175);
+    display: flex;
+    align-items: center;
+}
+
+.intro {
+    margin-left: 100px;
+}
+
+h4,
+h1,
+h3 {
+    margin: 4px;
+}
+
+h4 {
+    font-size: 27px;
+}
+
+h1 {
+    font-size: 76px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 40;
+}
+
+button {
+    width: 100px;
+    height: 35px;
+    padding: 4px;
+    background-color: rgb(225, 23, 23);
+    border: box;
+    border-radius: 10px;
+    color: white;
+    margin-top: 4px;
+}
